@@ -13,10 +13,6 @@ public class Prodotto {
 
 
     // Constructors
-    public Prodotto() {
-        Random randNum = new Random();
-        this.code =  randNum.nextInt(1000000);
-    }
     public Prodotto(String name, String description, BigDecimal price, BigDecimal vat) {
         Random randNum = new Random();
         this.code =  randNum.nextInt(1000000);
@@ -70,6 +66,7 @@ public class Prodotto {
 
     @Override
     public String toString() {
+        /*
         return "Prodotto{" +
                 "code=" + code +
                 ", name='" + name + '\'' +
@@ -77,5 +74,11 @@ public class Prodotto {
                 ", price=" + price +
                 ", vat=" + vat +
                 '}';
+        */
+        return "codice prodotto = " + code +
+                ", nome = '" + name + '\'' +
+                ", descrizione = '" + description + '\'' +
+                ", prezzo = " + price +
+                ", iva = " + vat;
     }
 }

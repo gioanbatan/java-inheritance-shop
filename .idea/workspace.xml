@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70945af6-cd74-4a3a-bd84-0bfdf91b9e49" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shop/Prodotto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shop/Cuffie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shop/Televisore.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shop/Carrello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shop/Carrello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shop/Carrello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shop/Prodotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shop/Prodotto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shop/Smartphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shop/Smartphone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
